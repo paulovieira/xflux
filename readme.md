@@ -1,0 +1,1 @@
+This is a simple bash script to call `xflux` from the command line.
